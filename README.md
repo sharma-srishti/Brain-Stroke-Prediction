@@ -17,3 +17,5 @@ Naive Bayes	|| 0.782003 ||	0.743796 ||	0.860642
 SVC ||	0.950570 ||	0.931984 ||	0.972128
 
 XGBoost ||	0.945501 ||	0.941423 ||	0.950169
+
+Best Model is SVC with highest accuracy i.e 95%
